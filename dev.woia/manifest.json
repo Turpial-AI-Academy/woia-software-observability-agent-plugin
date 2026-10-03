@@ -1,0 +1,26 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "observability",
+  "skill": "observability",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/observability-agent-plugin",
+    "version": "1.0.1",
+    "commit": "16e79d4b93411ef83853701ecd3b0182db79aa66"
+  },
+  "migrated_portable_paths": [
+    "skills/observability/SKILL.md",
+    "skills/observability/assets/OBSERVABILITY-EVIDENCE.md.template",
+    "skills/observability/assets/OPERATIONAL-SIGNAL-PLAN.md.template",
+    "skills/observability/assets/README.md",
+    "skills/observability/references/DIAGNOSTICS-AND-INCIDENTS.md",
+    "skills/observability/references/METRICS-SLOS-AND-ALERTING.md",
+    "skills/observability/references/OPENTELEMETRY.md",
+    "skills/observability/references/OPERATING-MODEL.md",
+    "skills/observability/references/PRIVACY-RETENTION-AND-SAMPLING.md",
+    "skills/observability/references/README.md",
+    "skills/observability/references/SIGNALS-AND-CORRELATION.md"
+  ]
+}

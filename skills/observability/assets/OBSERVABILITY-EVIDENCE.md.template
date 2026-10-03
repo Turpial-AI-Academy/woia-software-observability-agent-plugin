@@ -1,0 +1,73 @@
+# Observability Evidence
+
+## Candidate
+
+- System/release:
+- Version/commit/artifact:
+- Environment:
+- Evidence timestamp/window:
+
+## Capability result
+
+`PASS | PASS_WITH_CONDITIONS | NOT_APPLICABLE | FAIL`
+
+## Amendment and evidence lifecycle
+
+For a bounded follow-up, amend the existing report instead of duplicating it. Record only applicable fields:
+
+- Bounded/deep depth and trigger:
+- Changed claim/failure mode:
+- Stable inputs and freshness/expiry checked:
+- Reusable durable execution evidence and source:
+- Invalidated proof and reason:
+- Freshly executed/observed evidence:
+- Preserved unrelated evidence:
+- Assumptions/inferences that are not evidence:
+
+## Failure-mode verification
+
+| Failure mode | Detection tested | Correlation tested | Diagnosis sufficient | Evidence | Result |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+## Metrics / SLO / alert verification
+
+| Item | Check performed | Observed result | Evidence |
+|---|---|---|---|
+|  |  |  |  |
+
+## Privacy and signal-quality verification
+
+- Secret/prohibited-content check:
+- Redaction check:
+- Cardinality check:
+- Missing-data semantics:
+- Sampling behavior:
+- Retention/access review:
+- Measurement source attribution:
+
+## Diagnostics / incident reconstruction
+
+- Reproduction or failure injection:
+- Version identified:
+- Affected operation identified:
+- Timeline reconstructable:
+- External effects reconciled:
+- Diagnostic bundle/reference:
+- Known unavailable evidence:
+
+## Conditions and residual risk
+
+| Condition/risk | Impact | Owner | Expiry/review trigger |
+|---|---|---|---|
+|  |  |  |  |
+
+## Commands / procedures executed
+
+```text
+<exact commands or reproducible procedures>
+```
+
+## Final statement
+
+Explain why the selected capability result is supported by current evidence. Do not count planned or historical evidence as current proof.

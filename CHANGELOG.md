@@ -1,0 +1,6 @@
+# Changelog
+
+## 0.5.0 - 2026-10-03
+
+- Establish WOIA v0.5.0 provider lineage for `observability`.
+- Preserve portable capability content from source commit `16e79d4b93411ef83853701ecd3b0182db79aa66`.

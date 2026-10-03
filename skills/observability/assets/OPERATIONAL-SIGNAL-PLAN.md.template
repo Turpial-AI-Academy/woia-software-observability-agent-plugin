@@ -1,0 +1,60 @@
+# Operational Signal Plan
+
+## Target
+
+- System/release:
+- Version/commit/artifact:
+- Environment(s):
+- Scope:
+- Review date:
+- Owner(s):
+
+## Authoritative truth and evidence
+
+| Operational question | Source of truth / durable evidence | Notes |
+|---|---|---|
+| What version is running? |  |  |
+| Did the critical external effect complete? |  |  |
+| What state is the affected operation in? |  |  |
+
+## Failure modes and signals
+
+| Failure mode | Impact | Detection signal | Correlation | Diagnostic evidence | Response owner | Verification |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+## Signal inventory
+
+| Signal | Type | Purpose | Source | Key dimensions/fields | Retention | Sampling | Privacy class |
+|---|---|---|---|---|---|---|---|
+|  | event/log/trace/metric/probe/record |  |  |  |  |  |  |
+
+## Metrics / SLOs / alerts
+
+| Item | Indicator/condition | Population/window | Objective/threshold | Owner | Action/runbook | Evidence status |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+## Data handling
+
+- Sensitive content captured:
+- Redaction:
+- Access:
+- Retention:
+- Sampling:
+- External export destinations:
+- Known unavailable fields:
+
+## Validation plan
+
+| Scenario | Expected signal | Negative control | Procedure | Evidence location |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+## Conditions / out-of-scope decisions
+
+- Condition or `NOT_APPLICABLE` area:
+- Evidence:
+- Risk:
+- Owner:
+- Review/expiry trigger:

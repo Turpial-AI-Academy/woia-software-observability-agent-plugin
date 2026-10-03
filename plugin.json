@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-observability",
+  "version": "0.5.0",
+  "description": "Reusable observability capability for designing and validating operational signals, diagnostics, metrics, traces, logs, and incident evidence for software systems.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-observability-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-observability-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "observability"
+  ]
+}
