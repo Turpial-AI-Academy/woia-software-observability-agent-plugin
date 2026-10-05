@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.5.1 - 2026-10-05
 
 - Restore capability-specific Observability regressions for centralized thin certification and the canonical MIT license text.
 
