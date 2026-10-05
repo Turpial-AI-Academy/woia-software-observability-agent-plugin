@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Restore capability-specific Observability regressions for centralized thin certification and the canonical MIT license text.
+
 ## 0.5.0 - 2026-10-03
 
 - Establish WOIA v0.5.0 provider lineage for `observability`.
