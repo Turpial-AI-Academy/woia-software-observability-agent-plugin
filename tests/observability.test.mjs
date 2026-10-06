@@ -62,6 +62,14 @@ test("unknown external effects cannot be resolved by blind retry", async () => {
   assert.match(diagnostics, /confirmed\/rejected\/partial\/unknown/i);
 });
 
+test("OpenTelemetry remains optional and non-authoritative", async () => {
+  const skill = await read("skills/observability/SKILL.md");
+  const otel = await read("skills/observability/references/OPENTELEMETRY.md");
+  assert.match(skill, /OpenTelemetry may be used as an interoperability layer, not as a mandatory architecture/i);
+  assert.match(otel, /not required to use this plugin/i);
+  assert.match(otel, /correlation metadata, not authorization/i);
+});
+
 test("operational signal plan template covers detection through verification", async () => {
   const plan = await read("skills/observability/assets/OPERATIONAL-SIGNAL-PLAN.md.template");
   for (const heading of [

@@ -3,6 +3,7 @@
 ## 0.5.1 - 2026-10-05
 
 - Restore capability-specific Observability regressions for centralized thin certification and the canonical MIT license text.
+- Preserve regression coverage for optional OpenTelemetry and the separation of correlation from authorization.
 
 ## 0.5.0 - 2026-10-03
 
