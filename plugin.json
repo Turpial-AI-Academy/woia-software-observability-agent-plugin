@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-observability",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "description": "Reusable observability capability for designing and validating operational signals, diagnostics, metrics, traces, logs, and incident evidence for software systems.",
   "author": {
     "name": "Turpial AI Academy",
