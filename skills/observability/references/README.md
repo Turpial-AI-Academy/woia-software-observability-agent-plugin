@@ -9,4 +9,4 @@ Load only the detail needed for the current task.
 - [PRIVACY-RETENTION-AND-SAMPLING.md](PRIVACY-RETENTION-AND-SAMPLING.md) — content minimization, redaction, retention, access, and sampling.
 - [OPENTELEMETRY.md](OPENTELEMETRY.md) — optional interoperability mapping and versioning guidance.
 
-These references are vendor-neutral. They do not require a particular SaaS backend, collector, orchestrator, or ASPS.
+These references are vendor-neutral and usable across SaaS backends, collectors and orchestrators.

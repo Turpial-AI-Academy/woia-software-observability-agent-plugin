@@ -6,7 +6,7 @@ license: MIT
 
 # Observability
 
-Use this skill to prove that relevant operational failures can be detected and diagnosed with sufficient evidence, without requiring ASPS or a specific telemetry vendor.
+Use this skill to prove that relevant operational failures can be detected and diagnosed with sufficient evidence. The method is standalone and adapts to the target system's telemetry tools.
 
 ## Operating flow
 
